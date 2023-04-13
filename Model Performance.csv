@@ -1,0 +1,5 @@
+Model,MSE_train,MSE_test,MAE_test,MSE Percent diff,R2_train,R2_test
+Linear Regression,618.689,711.904,17.71,-15.067,0.884,0.895
+Decision Tree Tuned,274.286,1148.205,22.659,-318.617,0.949,0.83
+Gradient Boosting Tuned,282.991,525.743,14.907,-85.781,0.947,0.922
+Neural Network,386.257,566.022,15.545,-46.54,0.933,0.901
